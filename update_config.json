@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 3,
+  "latestVersionCode": 2,
   "latestVersionName": "1.1.2",
   "updateUrl": "https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v1.1.2.apk",
   "releaseNotes": "Thêm tính năng Pip thu nhỏ + Fix một số lỗi tới quyền đọc file + Fix khả năng tương thích thiết bị."
