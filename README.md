@@ -22,7 +22,9 @@ Bản phát hành chính thức (close tester)
 (giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
 
 ◉ Kênh Support duy nhất: https://t.me/olivergreetly
+
 📥 Download This App APK
+
 🔗 https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v113.apk
 
 ACE nếu thấy hữu ích hãy cho tôi thêm cốc cafe đêm nhé
