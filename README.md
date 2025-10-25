@@ -25,7 +25,7 @@
 
 📥 Download This App APK
 
-🔗 https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v113.apk
+🔗 https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v114.apk
 
 ACE nếu thấy hữu ích hãy cho tôi thêm cốc cafe đêm nhé
 MB Bank: 111010888
