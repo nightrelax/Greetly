@@ -1,6 +1,6 @@
 Bản phát hành chính thức (close tester)
 🔥 Greetly
-🔄 V1.1.3
+🔄 V1.1.4
 
 ⚙ Tính năng:
 - Tự động phát lời chào khi khởi động
@@ -18,6 +18,7 @@ Bản phát hành chính thức (close tester)
 - Fix lấy file nhạc vào bộ nhớ tạm chỉ phát lần đầu, lần 2 mở app mất file (thêm yêu cầu quyền qly bộ nhớ vĩnh viễn)
 
 📱 Chưa hoạt động:
+- Pip một số thiết bị bị lỗi (tắt tạm)
 - Một số thiết bị chưa sử dụng được file lời chào có sẵn trong máy
 (giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
 
