@@ -1,6 +1,5 @@
-Bản phát hành chính thức (close tester)
 🔥 Greetly
-🔄 V1.1.4
+🔄 V1.1.4 Bản phát hành chính thức (close tester)
 
 ⚙ Tính năng:
 - Tự động phát lời chào khi khởi động
