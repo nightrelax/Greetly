@@ -14,12 +14,14 @@
 
 💫 Cập nhật:
 - Thêm thu nhỏ pip
+- Cập nhật khi có phiên bản mới
 - Fix lấy file nhạc vào bộ nhớ tạm chỉ phát lần đầu, lần 2 mở app mất file (thêm yêu cầu quyền qly bộ nhớ vĩnh viễn)
+- Một số thiết bị chưa sử dụng được file lời chào có sẵn trong máy
+(giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
 
 📱 Chưa hoạt động:
 - Pip một số thiết bị bị lỗi (tắt tạm)
-- Một số thiết bị chưa sử dụng được file lời chào có sẵn trong máy
-(giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
+- List app mở sau khi app đọc xong lời chào chưa hiện hết app có trong máy
 
 ◉ Kênh Support duy nhất: https://t.me/olivergreetly
 
