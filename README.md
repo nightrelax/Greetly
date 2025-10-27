@@ -9,19 +9,19 @@
 - Có thể tăng giảm âm lượng phát
 - Có thể đặt nhạc mở đầu / nhạc nền cho lời chào text
 - Tính năng mở thêm ứng dụng bất kỳ có trong máy sau khi lời chào đã phát xong
-- Tính năng pip thu nhỏ cửa sổ khi mở app
 - Cập nhật khi có phiên bản mới
 
-💫 Cập nhật:
-- Thêm thu nhỏ pip
-- Cập nhật khi có phiên bản mới
-- Fix lấy file nhạc vào bộ nhớ tạm chỉ phát lần đầu, lần 2 mở app mất file (thêm yêu cầu quyền qly bộ nhớ vĩnh viễn)
-- Một số thiết bị chưa sử dụng được file lời chào có sẵn trong máy
-(giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
+☄️ Mở rộng (đang test + sửa lỗi)
+- List app mở sau khi app đọc xong lời chào
+- Tính năng pip thu nhỏ cửa sổ khi mở app
+
+💫 Lưu ý:
+- Một số thiết bị chưa sử dụng được file lời chào có sẵn trong máy (giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
 
 📱 Chưa hoạt động:
-- Pip một số thiết bị bị lỗi (tắt tạm)
+- Pip đang lỗi trên một số thiết bị (tắt tạm tính năng này)
 - List app mở sau khi app đọc xong lời chào chưa hiện hết app có trong máy
+
 
 ◉ Kênh Support duy nhất: https://t.me/olivergreetly
 
