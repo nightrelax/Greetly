@@ -34,9 +34,10 @@ MB Bank: 111010888
 Paypal: paypal.me/oliverleo
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/4812ef29-4454-483e-b012-145313f3c686" />
 
-<img width="800" height="178" alt="image" src="https://github.com/user-attachments/assets/db1b9ec6-c053-44b8-8422-635e8dba3642" />
-<img width="800" height="178" alt="image" src="https://github.com/user-attachments/assets/8da3163e-4143-4552-bdb3-8fb5409179b7" />
+
 Trên màn hình android để mở app khi khởi động ae tìm mục Application Setting (trong cài đặt cá nhân) và bật cho ứng dụng Greetly như này nhé
+<img width="800" height="178" alt="image" src="https://github.com/user-attachments/assets/db1b9ec6-c053-44b8-8422-635e8dba3642" />
+<img width="816" height="101" alt="image" src="https://github.com/user-attachments/assets/adccd461-4b83-431c-b203-caa7a2c62ab7" />
 
 
 Để mở ứng dụng khi androidbox chạy AE vào Cài đặt > mục cài đặt khác > Tự khởi động ứng dụng và chọn ứng dụng cần mở khi android box khởi động
