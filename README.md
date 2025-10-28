@@ -32,7 +32,7 @@
 ACE nếu thấy hữu ích hãy cho tôi thêm cốc cafe đêm nhé
 MB Bank: 111010888
 Paypal: paypal.me/oliverleo
-<img width="835" height="785" alt="image" src="https://github.com/user-attachments/assets/4812ef29-4454-483e-b012-145313f3c686" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/4812ef29-4454-483e-b012-145313f3c686" />
 
 <img width="800" height="178" alt="image" src="https://github.com/user-attachments/assets/db1b9ec6-c053-44b8-8422-635e8dba3642" />
 <img width="800" height="178" alt="image" src="https://github.com/user-attachments/assets/8da3163e-4143-4552-bdb3-8fb5409179b7" />
