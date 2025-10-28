@@ -29,7 +29,7 @@
 
 🔗 https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v215.apk
 
-ACE nếu thấy hữu ích hãy cho tôi thêm cốc cafe đêm nhé
+ACE nếu thấy hữu ích hãy cho tôi thêm động lực cày đêm nhé
 MB Bank: 111010888
 Paypal: paypal.me/oliverleo
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/4812ef29-4454-483e-b012-145313f3c686" />
