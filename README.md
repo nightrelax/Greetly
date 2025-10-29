@@ -23,7 +23,9 @@
 - List app mở sau khi app đọc xong lời chào chưa hiện hết app có trong máy
 
 
-◉ Kênh Support duy nhất: https://t.me/olivergreetly
+◉ Kênh Support: 
+Facebook: https://www.facebook.com/profile.php?id=61582999020636
+Tele: https://t.me/olivergreetly
 
 📥 Download This App APK
 
