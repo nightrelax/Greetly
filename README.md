@@ -11,7 +11,8 @@
 - Tính năng mở thêm ứng dụng bất kỳ có trong máy sau khi lời chào đã phát xong
 - Cập nhật khi có phiên bản mới
 
-☄️ Mở rộng
+☄️ Mở rộng (Liên hệ kênh support bên dưới để sử dụng tính năng có phí)
+Một số tính năng ở mục này cần fix và mất nhiều thời gian nên sẽ thu phí cho các tính năng bên dưới
 - List app mở sau khi app đọc xong lời chào
 - Tính năng pip thu nhỏ cửa sổ khi mở app
 - Thêm khoảng chờ trước khi phát lời chào (dành cho thiết bị bị lag trễ mở giao diện hoặc vấn đề độ trễ khác)
