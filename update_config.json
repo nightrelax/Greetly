@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "2.1.4",
-  "updateUrl": "https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v215.apk",
-  "releaseNotes": "Thêm khả năng tương thích thiết bị.\n"
+  "latestVersionCode": 6,
+  "latestVersionName": "2.1.6",
+  "updateUrl": "https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v216.apk",
+  "releaseNotes": "Thêm khả năng tương thích thiết bị.\nThêm tính năng độ trễ khi phát lời chào.\nĐã fix tính năng pip + mở app sau lời chào.\nChuyển các tính năng mất nhiều thời gian code và fix lỗi vào phần tính năng mở rộng"
 }
