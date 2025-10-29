@@ -1,5 +1,5 @@
 🔥 Greetly
-🔄 V2.1.5 Bản phát hành chính thức (close tester)
+🔄 V2.1.6 Bản phát hành chính thức (close tester)
 
 ⚙ Tính năng:
 - Tự động phát lời chào khi khởi động
@@ -14,6 +14,7 @@
 ☄️ Mở rộng (đang test + sửa lỗi)
 - List app mở sau khi app đọc xong lời chào
 - Tính năng pip thu nhỏ cửa sổ khi mở app
+- Thêm khoảng chờ trước khi phát lời chào (dành cho thiết bị bị lag trễ mở giao diện hoặc vấn đề độ trễ khác)
 
 💫 Lưu ý:
 - Một số thiết bị chưa sử dụng được file lời chào có sẵn trong máy (giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
@@ -29,7 +30,7 @@ Tele: https://t.me/olivergreetly
 
 📥 Download This App APK
 
-🔗 https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v215.apk
+🔗 https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v216.apk
 
 ACE nếu thấy hữu ích hãy cho tôi thêm động lực cày đêm nhé
 MB Bank: 111010888
