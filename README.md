@@ -21,8 +21,7 @@ Một số tính năng ở mục này cần fix và mất nhiều thời gian n�
 - Một số thiết bị chưa sử dụng được file lời chào có sẵn trong máy (giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
 
 📱 Chưa hoạt động:
-- Pip đang lỗi trên một số thiết bị (tắt tạm tính năng này)
-- List app mở sau khi app đọc xong lời chào chưa hiện hết app có trong máy
+...
 
 
 ◉ Kênh Support: 
