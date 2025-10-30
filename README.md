@@ -1,5 +1,5 @@
 🔥 Greetly
-🔄 V2.1.6 Bản phát hành chính thức (close tester)
+🔄 V2.1.7 Bản phát hành chính thức (close tester)
 
 ⚙ Tính năng:
 - Tự động phát lời chào khi khởi động
@@ -31,7 +31,7 @@ Tele: https://t.me/olivergreetly
 
 📥 Download This App APK
 
-🔗 https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v216.apk
+🔗 https://github.com/nightrelax/Greetly/raw/refs/heads/main/_Greetly.apk
 
 ACE nếu thấy hữu ích hãy cho tôi thêm động lực cày đêm nhé
 MB Bank: 111010888
