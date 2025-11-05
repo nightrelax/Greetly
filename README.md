@@ -12,10 +12,10 @@
 - Cập nhật khi có phiên bản mới
 
 ☄️ Mở rộng (Liên hệ kênh support bên dưới để sử dụng tính năng có phí)
-Một số tính năng ở mục này cần fix và mất nhiều thời gian nên sẽ thu phí cho các tính năng bên dưới
-- List app mở sau khi app đọc xong lời chào
-- Tính năng pip thu nhỏ cửa sổ khi mở app
-- Thêm khoảng chờ trước khi phát lời chào (dành cho thiết bị bị lag trễ mở giao diện hoặc vấn đề độ trễ khác)
+- Lần đầu mở app phải kết nối wifi kết nối với 1 mạng quanh đó
+- Muốn sử dụng kết hợp với android auto có thể cài thêm app trung gian như: MacroDroid, Tasker, Automate,...
+- File mp3 lời chào trước khi add phải để tên: không dấu, không ký tự đặc biệt, đuôi file .mp3 (ko viết hoa)
+- Một số thiết bị chưa sử dụng được file lời chào có sẵn trong máy (giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
 
 💫 Lưu ý:
 - Một số thiết bị chưa sử dụng được file lời chào có sẵn trong máy (giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
@@ -25,7 +25,7 @@ Một số tính năng ở mục này cần fix và mất nhiều thời gian n�
 
 
 ◉ Kênh Support: 
-Facebook: https://www.facebook.com/profile.php?id=61582999020636
+Facebook: https://www.facebook.com/olivergreetly
 Tele: https://t.me/olivergreetly
 
 📥 Download This App APK
