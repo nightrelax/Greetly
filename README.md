@@ -1,5 +1,7 @@
 🔥 Greetly
-🔄 V2.1.7 Bản phát hành chính thức (close tester)
+🔄 V2.1.8 Bản phát hành chính thức (close tester)
+Sửa lỗi: Thay đổi cách lưu file lời chào thay vì lấy đường dãn như trước đây + khả năng tương thích một số thiết bị
+Cập nhật: Tính năng mở rộng Phát nhiều lời chào
 
 ⚙ Tính năng:
 - Tự động phát lời chào khi khởi động
@@ -15,6 +17,7 @@
 - Lần đầu mở app phải kết nối wifi kết nối với 1 mạng quanh đó
 - Muốn sử dụng kết hợp với android auto có thể cài thêm app trung gian như: MacroDroid, Tasker, Automate,...
 - File mp3 lời chào trước khi add phải để tên: không dấu, không ký tự đặc biệt, đuôi file .mp3 (ko viết hoa)
+- Phát nhiều lời chào
 - Một số thiết bị chưa sử dụng được file lời chào có sẵn trong máy (giải pháp cài thêm app quản lý file File Manager+ ở dưới đây: https://github.com/nightrelax/Greetly/raw/refs/heads/main/File%20Manager+_3.3.1.apk )
 
 💫 Lưu ý:
