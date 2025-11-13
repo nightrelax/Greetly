@@ -33,7 +33,7 @@ Tele: https://t.me/olivergreetly
 
 📥 Download This App APK
 
-🔗 https://github.com/nightrelax/Greetly/raw/refs/heads/main/_Greetly_v217.apk
+🔗 [https://tinyurl.com/greetly](https://tinyurl.com/greetly)
 
 ACE nếu thấy hữu ích hãy cho tôi thêm động lực cày đêm nhé
 MB Bank: 111010888
