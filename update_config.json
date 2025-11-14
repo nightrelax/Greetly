@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 10,
-  "latestVersionName": "3.1.0",
+  "latestVersionName": "3.1.1",
   "updateUrl": "https://tinyurl.com/greetly",
-  "releaseNotes": "Tương thích: Fix App mở chậm trên một số thiết bị\nThêm tính năng: Phát lời chào theo khung giờ + ngôn ngữ tiếng anh"
+  "releaseNotes": "Tương thích: Fix App mở chậm trên một số thiết bị\nThêm tính năng: Phát lời chào theo khung giờ + ngôn ngữ tiếng anh + tự động kích hoạt (cho thiết bị đã đăng ký)"
 }
