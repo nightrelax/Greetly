@@ -1,7 +1,7 @@
 🔥 Greetly
-🔄 V3.1.0
+🔄 V3.1.1
 Sửa lỗi: mở chậm trên một số thiết bị
-Cập nhật: Tính năng mở rộng lời chào theo khung giờ + ngôn ngữ tiếng anh
+Cập nhật: Tính năng mở rộng lời chào theo khung giờ + ngôn ngữ tiếng anh + tự động kích hoạt nếu có mạng (thiết bị đã được cấp mã kích hoạt)
 
 ⚙ Tính năng:
 - Tự động phát lời chào khi khởi động
