@@ -1,5 +1,5 @@
 {
-  "latestVersionCode": 12,
+  "latestVersionCode": 13,
   "latestVersionName": "3.1.3",
   "updateUrl": "https://tinyurl.com/greetly",
   "releaseNotes": "Sửa lỗi: khi dùng floating bong bóng bật cùng tính năng mở app sau lời chào không hoạt động\n + Fix lỗi mở app trên một số thiết bị\n + Fix một số thao tác và thiết bị bị delay gây chồng chéo lời chào.\nCập nhật: Mã kích hoạt loại Vĩnh viên / Có thời hạn.\n\n>>>Nếu có lỗi hãy tải phiên bản mới: https://tinyurl.com/greetly\n(gỡ app cũ trước khi cài lại)"
