@@ -1,6 +1,6 @@
 {
   "latestVersionCode": 12,
-  "latestVersionName": "3.1.2",
+  "latestVersionName": "3.1.3",
   "updateUrl": "https://tinyurl.com/greetly",
-  "releaseNotes": "Tương thích: Fix treo app khi mở trên một số thiết bị \nSửa tính năng Lời chào theo khung giờ ổn định và cố định 3 khung giờ tùy chọn.\nThêm phím nổi dạng floating nhỏ.\n\n>>>Nếu có lỗi: Hãy tải app mới tại: https://tinyurl.com/greetly\n(gỡ app cũ trước khi cài lại)"
+  "releaseNotes": "Sửa lỗi: khi dùng floating bong bóng bật cùng tính năng mở app sau lời chào không hoạt động + Fix lỗi trên một số thiết bị.\nCập nhật: Mã kích hoạt loại Vĩnh viên / Có thời hạn.\n\n>>>Nếu có lỗi hãy tải phiên bản mới: https://tinyurl.com/greetly\n(gỡ app cũ trước khi cài lại)"
 }
