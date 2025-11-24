@@ -1,7 +1,7 @@
 🔥 Greetly
-🔄 V3.1.1
-Sửa lỗi: mở chậm trên một số thiết bị
-Cập nhật: Tính năng mở rộng lời chào theo khung giờ + ngôn ngữ tiếng anh + tự động kích hoạt nếu có mạng (thiết bị đã được cấp mã kích hoạt)
+🔄 V3.1.3
+Sửa lỗi: khi dùng floating bong bóng bật cùng tính năng mở app sau lời chào không hoạt động + Fix lỗi trên một số thiết bị
+Cập nhật: Mã kích hoạt loại Vĩnh viên / Có thời hạn
 
 ⚙ Tính năng:
 - Tự động phát lời chào khi khởi động
