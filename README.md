@@ -1,5 +1,5 @@
 🔥 Greetly
-🔄 V3.1.3
+🔄 V3.1.4
 Sửa lỗi: khi dùng floating bong bóng bật cùng tính năng mở app sau lời chào không hoạt động + Fix lỗi trên một số thiết bị
 Cập nhật: Mã kích hoạt loại Vĩnh viên / Có thời hạn
 
