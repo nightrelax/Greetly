@@ -1,6 +1,6 @@
 🔥 Greetly<br>
 🔄 V3.1.5<br>
-Sửa lỗi: Dịch vụ chạy nền + Thay trình phát lời chào + Tăng tốc xử lý âm thanh giảm trễ trên máy cấu hình thấp + Thêm thông báo cài quản lý file khi chọn file lời chào + Sửa lỗi trên một số máy lỗi kiến trúc CPU
+Sửa lỗi: Dịch vụ chạy nền + Thay trình phát lời chào + Tăng tốc xử lý âm thanh giảm trễ trên máy cấu hình thấp + Thêm thông báo cài quản lý file khi chọn file lời chào + Sửa lỗi trên một số máy lỗi kiến trúc CPU + Sửa lỗi bong bóng BubbleService
 <br><br>
 ⚙ Tính năng:
 - Tự động phát lời chào khi khởi động
