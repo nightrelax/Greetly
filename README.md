@@ -36,7 +36,7 @@ Facebook: https://www.facebook.com/olivergreetly<br>
 Tele: https://t.me/olivergreetly
 <br><br>
 📥 Download This App APK<br>
-🔗 https://github.com/nightrelax/Greetly/blob/main/Greetly_v314.apk
+🔗 https://github.com/nightrelax/Greetly/blob/main/Greetly_v315.apk
 <br><br>
 ACE nếu thấy hữu ích hãy cho tôi thêm động lực update nhé<br>
 MB Bank: 136818<br>
