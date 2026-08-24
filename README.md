@@ -1,8 +1,7 @@
-🔥 Greetly
-🔄 V3.1.5
-
-Sửa lỗi: Dịch vụ chạy nền + Thay trình phát lời chào + Tăng tốc xử lý âm thanh giảm trễ trên máy cấu hình thấp
-
+🔥 Greetly<br>
+🔄 V3.1.5<br>
+Sửa lỗi: Dịch vụ chạy nền + Thay trình phát lời chào + Tăng tốc xử lý âm thanh giảm trễ trên máy cấu hình thấp + Thêm thông báo cài quản lý file khi chọn file lời chào
+<br><br>
 ⚙ Tính năng:
 - Tự động phát lời chào khi khởi động
 - Có thể tự thêm Text để app tự động đọc
@@ -13,7 +12,7 @@ Sửa lỗi: Dịch vụ chạy nền + Thay trình phát lời chào + Tăng t�
 - Tính năng mở thêm ứng dụng bất kỳ có trong máy sau khi lời chào đã phát xong
 - Cập nhật khi có phiên bản mới
   
-<br>
+<br><br>
 ☄️ Mở rộng (Liên hệ kênh support bên dưới để sử dụng tính năng mở rộng)
 - Mở app khác sau khi phát lời chào
 - Cửa sổ thu nhỏ / hoặc phím nổi khi mở
