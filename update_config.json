@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 14,
-  "latestVersionName": "3.1.4",
-  "updateUrl": "https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v314.apk",
-  "releaseNotes": "Sửa lỗi: Không phát lời chào text tự nhập\n Vào cài đặt lời chào vẫn phát, tự thoát cài đặt khi lời chào đọc xong.\nCập nhật: Khả năng tương thích một số thiết bị.\n\n>>>Nếu có lỗi hãy tải phiên bản mới: https://tinyurl.com/greetly\n(gỡ app cũ trước khi cài lại)"
+  "latestVersionCode": 15,
+  "latestVersionName": "3.1.5",
+  "updateUrl": "https://github.com/nightrelax/Greetly/raw/refs/heads/main/Greetly_v315.apk",
+  "releaseNotes": "Sửa lỗi: Dịch vụ chạy nền + Thay trình phát lời chào + Tăng tốc xử lý âm thanh giảm trễ trên máy cấu hình thấp + Thêm thông báo cài quản lý file khi chọn file lời chào + Sửa lỗi trên một số máy lỗi kiến trúc CPU + Sửa lỗi bong bóng BubbleService + sửa lỗi Keystore với MasterKey.Builder.\n\n>>>Nếu có lỗi hãy tải phiên bản mới: https://tinyurl.com/greetly\n(gỡ app cũ trước khi cài lại)"
 }
