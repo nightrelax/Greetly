@@ -1,0 +1,6 @@
+{
+  "latestVersionCode": 15,
+  "latestVersionName": "3.1.5",
+  "updateUrl": "https://github.com/nightrelax/Greetly/releases/download/Release/Greetly_universal.apk",
+  "releaseNotes": "Sửa lỗi: Dịch vụ chạy nền + Thay trình phát lời chào + Tăng tốc xử lý âm thanh giảm trễ trên máy cấu hình thấp + Thêm thông báo cài quản lý file khi chọn file lời chào + Sửa lỗi trên một số máy lỗi kiến trúc CPU + Sửa lỗi bong bóng BubbleService + sửa lỗi Keystore với MasterKey.Builder.\n\n>>>Nếu có lỗi hãy tải phiên bản mới: https://tinyurl.com/greetly\n(gỡ app cũ trước khi cài lại)"
+}
