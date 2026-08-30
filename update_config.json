@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 15,
-  "latestVersionName": "3.1.5",
+  "latestVersionCode": 16,
+  "latestVersionName": "3.1.6",
   "updateUrl": "https://github.com/nightrelax/Greetly/releases/download/Release/Greetly_universal.apk",
-  "releaseNotes": "Sửa lỗi: Dịch vụ chạy nền + Thay trình phát lời chào + Tăng tốc xử lý âm thanh giảm trễ trên máy cấu hình thấp + Thêm thông báo cài quản lý file khi chọn file lời chào + Sửa lỗi trên một số máy lỗi kiến trúc CPU + Sửa lỗi bong bóng BubbleService + sửa lỗi Keystore với MasterKey.Builder.\n\n>>>Nếu có lỗi hãy tải phiên bản mới: https://tinyurl.com/greetly\n(gỡ app cũ trước khi cài lại)"
+  "releaseNotes": "Update tính năng mới\n- Thêm tính năng mở rộng hỗ trợ nhiều kết nối (cho cả các điện thoại android)\n- Thêm tự phát lời chào theo sự kiện kết nối bluetooth, Carplay/AndroidAuto, hoặc mở màn hình trên màn android ô tô độ, hoặc khi androidbox ô tô chạy (có thể bật cùng lúc nhiều kiểu kết nối, có thể sắp xếp độ ưu tiên kết nối, tự hủy các kết nối còn lại trong 60s hoặc thời gian lâu hơn tùy chọn)\nChú ý: một số thiết bị cũ đã kích hoạt có thẻ bị mất, ACE ai bị thì gửi lại DeviceID để mình cấp lại nhé.\n\n>>>Nếu có lỗi hãy tải phiên bản mới: https://tinyurl.com/greetly\n(gỡ app cũ trước khi cài lại)"
 }
