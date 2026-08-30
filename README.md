@@ -29,14 +29,14 @@ ________________________________________________________________________________
 <br>
 ____________________________________________________________________________________
 <br>
-☄️ Extended Features (Contact the support channel below to use these)
+☄️ Extended Features (Donate and Contact the support channel below to use these)
 - Launch another app after the greeting plays
 - Minimized window / floating button mode
 - Play multiple greetings (sequential or random playback from your list)
 - Schedule greetings to play at specific times
 - Automatic greeting triggered by Bluetooth connection, CarPlay/Android Auto activation, ACC-on screen startup on aftermarket Android head units, or car Android Box operation (supports simultaneous connection types, connection priority settings, and automatic cancellation of remaining connections after 60 seconds or a user-defined duration).
 <br><br>
-☄️ Mở rộng (Liên hệ kênh support bên dưới để sử dụng tính năng mở rộng)
+☄️ Mở rộng (Ủng hộ quỹ và Liên hệ kênh support bên dưới để sử dụng tính năng mở rộng)
 - Mở app khác sau khi phát lời chào
 - Cửa sổ thu nhỏ / hoặc phím nổi khi mở
 - Phát nhiều lời chào (có thể phát lần lượt, hoặc phát ngẫu nhiên danh sách lời chào đã thêm)
