@@ -1,9 +1,9 @@
 🔥 Greetly<br>
-🔄 V3.1.5
+🔄 V3.1.6
 <br>
-Bug fixes: Background service improvements + Greeting player replacement + Audio processing speed-up (reduced latency on low-end devices) + Added prompt to install a file manager when selecting greeting files + Fixed CPU architecture-related errors on certain devices + Fixed BubbleService issues + Fixed Keystore/MasterKey.Builder errors
-<br><br>
-Sửa lỗi: Dịch vụ chạy nền + Thay trình phát lời chào + Tăng tốc xử lý âm thanh giảm trễ trên máy cấu hình thấp + Thêm thông báo cài quản lý file khi chọn file lời chào + Sửa lỗi trên một số máy lỗi kiến trúc CPU + Sửa lỗi bong bóng BubbleService + sửa lỗi Keystore với MasterKey.Builder
+New feature: Added automatic greeting triggered by Bluetooth connection, CarPlay/Android Auto activation, ACC-on screen startup on aftermarket Android head units, or car Android Box operation (supports simultaneous connection types, connection priority settings, and automatic cancellation of remaining connections after 60 seconds or a user-defined duration).
+
+Tính năng mới: Thêm tự phát lời chào theo sự kiện kết nối bluetooth, Carplay/AndroidAuto, hoặc mở màn hình ACC on trên màn android ô tô độ, hoặc khi androidbox ô tô chạy (có thể bật cùng lúc nhiều kiểu kết nối, có thể sắp xếp độ ưu tiên kết nối, tự hủy các kết nối còn lại trong 60s hoặc thời gian lâu hơn tùy chọn)
 <br>
 ____________________________________________________________________________________
 ⚙ Features:
@@ -34,12 +34,14 @@ ________________________________________________________________________________
 - Minimized window / floating button mode
 - Play multiple greetings (sequential or random playback from your list)
 - Schedule greetings to play at specific times
+- Automatic greeting triggered by Bluetooth connection, CarPlay/Android Auto activation, ACC-on screen startup on aftermarket Android head units, or car Android Box operation (supports simultaneous connection types, connection priority settings, and automatic cancellation of remaining connections after 60 seconds or a user-defined duration).
 <br><br>
 ☄️ Mở rộng (Liên hệ kênh support bên dưới để sử dụng tính năng mở rộng)
 - Mở app khác sau khi phát lời chào
 - Cửa sổ thu nhỏ / hoặc phím nổi khi mở
 - Phát nhiều lời chào (có thể phát lần lượt, hoặc phát ngẫu nhiên danh sách lời chào đã thêm)
 - Phát lời chào theo khung giờ đặt trước
+- Tự phát lời chào theo sự kiện kết nối bluetooth, Carplay/AndroidAuto, hoặc mở màn hình ACC on trên màn android ô tô độ, hoặc khi androidbox ô tô chạy (có thể bật cùng lúc nhiều kiểu kết nối, có thể sắp xếp độ ưu tiên kết nối, tự hủy các kết nối còn lại trong 60s hoặc thời gian lâu hơn tùy chọn)
 <br>
 ____________________________________________________________________________________
 <br>
