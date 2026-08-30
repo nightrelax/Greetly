@@ -30,13 +30,16 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 <br>
 ☄️ Extended Features (Donate and Contact the support channel below to use these)
+
 - Launch another app after the greeting plays
 - Minimized window / floating button mode
 - Play multiple greetings (sequential or random playback from your list)
 - Schedule greetings to play at specific times
 - Automatic greeting triggered by Bluetooth connection, CarPlay/Android Auto activation, ACC-on screen startup on aftermarket Android head units, or car Android Box operation (supports simultaneous connection types, connection priority settings, and automatic cancellation of remaining connections after 60 seconds or a user-defined duration).
 <br><br>
+
 ☄️ Mở rộng (Ủng hộ quỹ và Liên hệ kênh support bên dưới để sử dụng tính năng mở rộng)
+
 - Mở app khác sau khi phát lời chào
 - Cửa sổ thu nhỏ / hoặc phím nổi khi mở
 - Phát nhiều lời chào (có thể phát lần lượt, hoặc phát ngẫu nhiên danh sách lời chào đã thêm)
@@ -65,9 +68,8 @@ hoặc https://github.com/zhanghai/MaterialFiles/releases/latest/download/app-re
 <br>
 ____________________________________________________________________________________
 
-If you find this useful, please help motivate me to keep working late nights (and you'll receive an activation code during the current development phase—once the app has all the necessary features, a fee will be introduced for extended features).<br>
-MB Bank: 136818<br>
-PayPal: paypal.me/oliverleo
+If you find this useful, please help motivate me to keep working late nights<br>
+ACE nếu thấy hữu ích hãy cho tôi thêm động lực update nhé<br>
 <br><br>
 ◉ Support Channel: <br>
 Facebook: https://www.facebook.com/olivergreetly<br>
@@ -76,7 +78,7 @@ Tele: https://t.me/olivergreetly
 📥 Download App APK<br>
 🔗 [Greetly_Universal.apk](https://github.com/nightrelax/Greetly/releases/download/Release/Greetly_universal.apk)
 <br><br>
-ACE nếu thấy hữu ích hãy cho tôi thêm động lực update nhé<br>
+
 MB Bank: 136818<br>
 Paypal: paypal.me/oliverleo<br>
 <img width="277" height="279" alt="image" src="https://github.com/user-attachments/assets/25c2f6e2-1022-4284-8d74-9b9236156f21" />
