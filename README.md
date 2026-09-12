@@ -77,7 +77,8 @@ Facebook: https://www.facebook.com/olivergreetly<br>
 Tele: https://t.me/olivergreetly
 <br><br>
 📥 Download App APK<br>
-🔗 [Greetly_Universal.apk](https://github.com/nightrelax/Greetly/releases/download/Release/Greetly_universal.apk)
+🔗 [Greetly_Universal.apk](https://github.com/nightrelax/Greetly/releases/download/Release/Greetly_universal.apk)<br>
+🔗 [Greetly_Mirror](https://greetly.181988.xyz/Greetly_universal.apk)
 <br><br>
 
 MB Bank: 136818<br>
