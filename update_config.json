@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 16,
-  "latestVersionName": "3.1.6",
+  "latestVersionCode": 17,
+  "latestVersionName": "3.1.7",
   "updateUrl": "https://github.com/nightrelax/Greetly/releases/download/Release/Greetly_universal.apk",
-  "releaseNotes": "Update tính năng mới\n- Thêm tính năng mở rộng hỗ trợ nhiều kết nối (cho cả các điện thoại android)\n- Thêm tự phát lời chào theo sự kiện kết nối bluetooth, Carplay/AndroidAuto, hoặc mở màn hình trên màn android ô tô độ, hoặc khi androidbox ô tô chạy (có thể bật cùng lúc nhiều kiểu kết nối, có thể sắp xếp độ ưu tiên kết nối, tự hủy các kết nối còn lại trong 60s hoặc thời gian lâu hơn tùy chọn)\nChú ý: một số thiết bị cũ đã kích hoạt có thẻ bị mất, ACE ai bị thì gửi lại DeviceID để mình cấp lại nhé.\n\n>>>Nếu có lỗi hãy tải phiên bản mới: https://tinyurl.com/greetly\n(gỡ app cũ trước khi cài lại)"
+  "releaseNotes": "Update\n- Fix some device open crash\n- Add active via bot Telegram\nChú ý: một số thiết bị cũ đã kích hoạt có thẻ bị mất, ACE ai bị thì gửi lại DeviceID để mình cấp lại nhé.\n\n>>>Nếu có lỗi hãy tải phiên bản mới: https://tinyurl.com/greetly\n(gỡ app cũ trước khi cài lại)"
 }
