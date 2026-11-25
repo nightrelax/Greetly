@@ -1,9 +1,11 @@
 🔥 Greetly<br>
-🔄 V3.1.6
+🔄 V3.1.7
 <br>
-New feature: Added automatic greeting triggered by Bluetooth connection, CarPlay/Android Auto activation, ACC-on screen startup on aftermarket Android head units, or car Android Box operation (supports simultaneous connection types, connection priority settings, and automatic cancellation of remaining connections after 60 seconds or a user-defined duration).
+Fix: some device open crash
+Add: active via bot Telegram
 
-Tính năng mới: Thêm tự phát lời chào theo sự kiện kết nối bluetooth, Carplay/AndroidAuto, hoặc mở màn hình ACC on trên màn android ô tô độ, hoặc khi androidbox ô tô chạy (có thể bật cùng lúc nhiều kiểu kết nối, có thể sắp xếp độ ưu tiên kết nối, tự hủy các kết nối còn lại trong 60s hoặc thời gian lâu hơn tùy chọn)
+Sửa lỗi: một số thiết bị treo khi mở app
+Thêm: kênh kích hoạt qua bot Telegram
 <br>
 ____________________________________________________________________________________
 ⚙ Features:
