@@ -1,10 +1,10 @@
 🔥 Greetly<br>
 🔄 V3.1.7
 <br>
-Fix: some device open crash
+Fix: some device open crash<br>
 Add: active via bot Telegram
 
-Sửa lỗi: một số thiết bị treo khi mở app
+Sửa lỗi: một số thiết bị treo khi mở app<br>
 Thêm: kênh kích hoạt qua bot Telegram
 <br>
 ____________________________________________________________________________________
